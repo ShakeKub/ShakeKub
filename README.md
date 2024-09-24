@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakekub&label=Profile%20views&color=0e75b6&style=flat" alt="shakekub" /> </p>
 
-- 🔭 I’m currently working on [Mráčci Website](https://github.com/ShakeKub/Mracci-Website)
+- 🔭 I’m currently working on [Mráčci Website](https://github.com/ShakeKub/Mracci-Website) and [Discord Gambling Bot](https://github.com/ShakeKub/BetBuddy-Bot)
 
 - 🌱 I’m currently learning **JS, PHP, SQL Database**
 
-- 👨‍💻 All of my projects are available at [xyz](xyz)
+- 👨‍💻 All of my projects are available at [Profile](https://github.com/ShakeKub?tab=repositories)
 
 - 📄 Know about my experiences [xyz](xyz)
 
